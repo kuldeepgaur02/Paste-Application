@@ -1,0 +1,15 @@
+# We are creating paste data functionality 
+
+we Know redux -> that helps in creating the feature -> that stores reducer in slice -> reducres such as create paste,update etc 
+
+store data in local storage 
+
+
+Routing :
+/-> home page -> this will have creating and update functionality 
+/pastes -> all paste list down 
+/pastes/:id -> view Paste 
+
+for on click on view we want it to go to the view page 
+
+
